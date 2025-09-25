@@ -87,4 +87,4 @@ MIT License
 
 ---
 
-*Built with ❤️ at Aptos Hackathon Delhi, inspired by the Mojo Monsters framework and adapted for the next era of web3 gaming.*
+*Built with ❤️ at Aptos Hackathon Delhi adapted for the next era of web3 gaming.*
