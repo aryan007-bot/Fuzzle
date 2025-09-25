@@ -1,6 +1,6 @@
 # 🏆 Fuzzle
 
-![Aptos Hackathon Delhi](<img width="560" height="560" alt="image" src="https://github.com/user-attachments/assets/13c96383-ce69-46ea-88c5-642e0206caac" />
+![Aptos Hackathon Delhi]
 )
 <img width="560" height="560" alt="image" src="https://github.com/user-attachments/assets/c1f2ee7c-1fac-422f-9188-c700f7989514" />
 
