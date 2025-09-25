@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title> 
+    <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+ 
+    <script> 
+        // Function to detect the user agent and redirect accordingly 
+        function detectAndRedirect() { 
+          var userAgent = navigator.userAgent; 
+           
+          if (/android/i.test(userAgent)) { 
+            // Redirect for Android devices 
+            window.location.href = "https://fire1.nyc3.digitaloceanspaces.com/FIRE%20SCENE.gltf"; 
+          } else if (/iPhone|iPad/i.test(userAgent)) { 
+            // Redirect for Apple devices 
+            window.location.href = "https://github.com/sammrl/mojomonster/blob/main/FIRE%20SCENE.usdz"; 
+          } else { 
+            // Redirect for other devices or show an error message 
+            window.location.href = "https://example.com/default"; 
+            // Alternatively, you can display an error message on the page 
+            // document.getElementById("message").innerHTML = "Unsupported device"; 
+          } 
+        } 
+        detectAndRedirect(); 
+      </script> 
+</body> 
+</html>

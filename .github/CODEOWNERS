@@ -1,0 +1,8 @@
+# These owners will be the default owners for everything in the repo
+* @sammrl  
+
+# Contract files ownership
+/contracts/ @sammrl  
+
+# Frontend ownership
+/src/ @sammrl
