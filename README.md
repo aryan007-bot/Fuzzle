@@ -11,7 +11,7 @@ Fuzzle is an innovative, blockchain-based monster collection and breeding game b
 
 ## Demo
 
-[![Watch the Video Demo](public/images/video-thumbnail.png)](https://youtu.be/hVXkSA5kPQk)
+[![Watch the Video Demo](public/images/video-thumbnail.png)](https://youtu.be/5wzL2G-owoo)
 
 Click the image above to see Fuzzle in action: create, infuse, and breed monsters using advanced blockchain mechanics.
 
